@@ -12,6 +12,7 @@ __Telegram-bot-shelter__ создан для информирования люд
 ## создано с помощью
 - Spring Boot
 - Maven
+- Telegram Bot API
 ## участники проекта
 1. [Александр Кузнецов](https://github.com/Hybusa)
 2. [Коренев Владимир](https://github.com/C0sm0Black)
